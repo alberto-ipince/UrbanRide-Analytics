@@ -1,0 +1,11 @@
+zone_id,district,zone_type,latitude,longitude,avg_traffic_score,avg_demand_score
+1,Miraflores,Commercial,-12.1211,-77.0297,85,90
+2,San Isidro,Business,-12.0975,-77.0365,88,92
+3,Barranco,Tourist,-12.1465,-77.0209,70,80
+4,La Molina,Residential,-12.0878,-76.9527,65,72
+5,Surco,Residential,-12.145,-76.991,75,78
+6,San Miguel,Residential,-12.078,-77.083,68,70
+7,Los Olivos,Residential,-11.991,-77.07,72,76
+8,Centro de Lima,Commercial,-12.0464,-77.0428,95,93
+9,Ate,Residential,-12.0432,-76.9426,74,73
+10,Callao,Logistics,-12.05,-77.125,82,77
